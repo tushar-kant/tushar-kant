@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tusharkanta Nayak</h1>
 <h3 align="center">A passionate web developer</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-kant&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-kant" /> </p>
+<h1 ><img src="https://img.wattpad.com/27aa273e2c3d47f32adbf62e90ba20e2fa6bfc43/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5f78625a3450635a3252556e33513d3d2d37372e313633323961313232356439376133653139343830363432313838362e676966"width="950" height="250" align="center" /img></h1>
 
 
 
