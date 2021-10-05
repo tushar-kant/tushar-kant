@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-kant&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-kant" /> </p>
-<img src="https://c.tenor.com/wucOp4UvTDgAAAAC/hey-you-how-funny.gif" width="600" height="400" align="center"/>
+<img src="https://c.tenor.com/wucOp4UvTDgAAAAC/hey-you-how-funny.gif" width="650" height="340" align="center"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar-kant" alt="tushar-kant" /></a> </p>
 
