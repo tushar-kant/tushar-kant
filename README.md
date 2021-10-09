@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **tusharkantanayak713@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HQs6gx-UfDknSf4Yiqc7a30WATj1rrYP/view?usp=drivesdk](https://drive.google.com/file/d/1HQs6gx-UfDknSf4Yiqc7a30WATj1rrYP/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume-Tusharkanta](https://drive.google.com/file/d/1ZatDKdUSdNXW2PJOWsEFmxrhNP-BiPAk/view?usp=drivesdk)
 
-- ⚡ Fun fact **import life.happiness()**
+- ⚡  **import life.happiness()**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-kant&show_icons=true&locale=en" alt="tushar-kant" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
