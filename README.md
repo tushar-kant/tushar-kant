@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tusharkanta Nayak</h1>
 <h3 align="center">A passionate web developer</h3>
-
+<p align="center"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="hello" width="650px" height="300px" /> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-kant&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-kant" /> </p>
